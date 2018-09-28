@@ -14,5 +14,7 @@ To test build your own open my solution, right click project1 -> properties -> c
 
 Also lots of this project was googled , I tried to document all my sources as best as I can and comment to show that  I tried my best to understand what was going on with the code and not just re-hashing to submit.
 
+Majority of the work done was thanks to Microsoft documentation https://docs.microsoft.com/en-us/windows/desktop/psapi/psapi-functions
+
 
 
